@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apps Cuaca</string>
+    <string name="default_loading_weather">Loading Weather</string>
+    <string name="error_loading_weather">Error Loading Weather</string>
+</resources>
